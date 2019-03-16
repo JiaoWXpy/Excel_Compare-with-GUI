@@ -1,0 +1,1 @@
+Pyinstaller -F -i bp.ico -w login.py -p homepage.py --hidden-import homepage --noconsole
